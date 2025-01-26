@@ -1,6 +1,5 @@
 # Astra AI Assistant
 
-##### Astra (AI Personal Assistant)
 
 Astra (Commonly called named `SAM, SR, ARIS, or JARVIS`) is a voice-controlled AI personal assistant designed to perform various tasks like opening/closing applications, fetching information, telling the date and time, sending emails, and more. This assistant can be enhanced with additional features in the future.
 
