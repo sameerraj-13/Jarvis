@@ -1,8 +1,8 @@
-# README.md for Astra AI Assistant
+# Astra AI Assistant
 
-readme_content = """# Astra (AI Personal Assistant)
+##### `Astra (AI Personal Assistant)`
 
-Astra (previously named SAM, SR, ARIS, or JARVIS) is a voice-controlled AI personal assistant designed to perform various tasks like opening/closing applications, fetching information, telling the date and time, sending emails, and more. This assistant can be enhanced with additional features in the future.
+Astra (Commonly called named `SAM, SR, ARIS, or JARVIS`) is a voice-controlled AI personal assistant designed to perform various tasks like opening/closing applications, fetching information, telling the date and time, sending emails, and more. This assistant can be enhanced with additional features in the future.
 
 ---
 
@@ -104,17 +104,19 @@ This project is open-source and licensed under the MIT License.
 
 ---
 
-## **Contact**
-For questions or suggestions, please contact:
-- **Email:** windows.to.linux.01@gmail.com
-- **GitHub:** [Sameer Raj's GitHub](https://github.com/sameerraj-13)
+## **GitHub Profile**
+
+- **GitHub:** [Profile] [https://github.com/sameerraj-13]
 
 ---
 
 > _This assistant is a work in progress, and new features will be added regularly._
 
-"""
+--- 
 
-# Save to a README file
-with open("README.md", "w") as file:
-    file.write(readme_content)
+```
+`Thank You!`
+`Team` 
+`SR`
+```
+
